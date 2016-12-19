@@ -1,1 +1,10 @@
 
+1. Material Colors theme for Android Logcat
+  
+To change Android Studio Logcat you need to go to: Preferences (Settings on Windows / Linux machines) → Editor → Colors & Fonts → Android Logcat and change the foreground color for every type of log.
+
+REFERENCES
+
+https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.cewd25s6n
+
+
